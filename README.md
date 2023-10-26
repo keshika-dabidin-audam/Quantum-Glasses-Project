@@ -10,5 +10,6 @@ This Project is a member of IBM Qiskit Ecosystem
 
 ## Built using: Python, Tkinter, Qiskit
 
-## main.py contains the application which can help to visualise the operations performed on a qubit when we apply basic quantum gates.
-## functions.py contains additional functions for the execution of the application.
+## Programs : 
+- main.py contains the application which can help to visualise the operations performed on a qubit when we apply basic quantum gates.
+- functions.py contains additional functions for the execution of the application.
