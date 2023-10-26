@@ -1,6 +1,6 @@
 # Quantum-Glasses-Project
 
-Quantum-Glasses
+
 This Project is a member of IBM Qiskit Ecosystem
 ## Points to remember while recreating
 1. Install tkinter and qiskit in a virtual environment
